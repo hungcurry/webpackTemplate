@@ -1,0 +1,23 @@
+.root{
+  width: 100%;
+  height: 500px;
+  background-image: url(~pic.gif);
+  margin-bottom: 10px;
+  transform: rotate(180deg);
+}
+
+.food{
+  width: 100%;
+  height: 100px;
+  background-image: url(~about/food.png);
+  margin-bottom: 10px;
+  background-repeat: no-repeat;
+}
+
+.icon{
+  width: 100%;
+  height: 200px;
+  background-image: url(~home/icon.svg);
+  margin-bottom: 10px;
+  background-repeat: no-repeat;
+}
